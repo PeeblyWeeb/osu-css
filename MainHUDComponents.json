@@ -475,7 +475,7 @@
         "UsesFixedAnchor": false,
         "Settings": {
           "attribute": 7,
-          "template": " {StarRating} • CS {CircleSize} • AR {ApproachRate} • OD {Accuracy} • HP {HPDrain}",
+          "template": " {StarRating} • CS {CircleSize} • AR {ApproachRate} • OD {Accuracy} • HP {HPDrain} • MPP {MaxPP}",
           "font": 1,
           "text_weight": 700,
           "text_colour": "#525252"
